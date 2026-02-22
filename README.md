@@ -1,17 +1,24 @@
-# Portfólio — Vinícius Ribeiro
+# Portfólio — Wellington Limeira Santos
 
-Portfólio profissional voltado para vagas de Analista de Operações, Projetos ou Administração com viés em TI.
+Portfólio profissional — Analista de Conteúdo e Operações | Gestão de Comunidades | Experiência na ByteDance (CapCut).
 
-## Como visualizar
+## Como visualizar localmente
 
 Abra o arquivo `index.html` no navegador (duplo clique ou arrastar para o Chrome/Edge).
+
+## Publicar como site (GitHub Pages)
+
+1. **Crie um repositório** no GitHub (ex: `wellington-limeira.github.io` ou `portfolio-wellington`).
+2. **Faça push** deste projeto para o repositório.
+3. Em **Settings** > **Pages** do repositório:
+   - **Source**: GitHub Actions
+4. O workflow fará o deploy automaticamente. Após 1–2 minutos, o site estará em:
+   - `https://seu-usuario.github.io/nome-do-repo/` (se for repo normal)
+   - `https://wellington-limeira.github.io/` (se o repo for `wellington-limeira.github.io`)
 
 ## Estrutura
 
 - **index.html** — Página única com todas as seções
-- **styles.css** — Estilos corporativos e responsivos
-- **assets/cardapio-digital.png** — Imagem do projeto acadêmico Cardápio Digital
-
-## Uso no Notion
-
-O conteúdo está organizado em seções. Para publicar no Notion, copie cada bloco do HTML (títulos e parágrafos/listas) e cole nas páginas do Notion; as formatações de lista e negrito são preservadas. A imagem do Cardápio Digital pode ser enviada como upload em **Projetos acadêmicos em TI**.
+- **styles.css** — Estilos responsivos
+- **main.js** — Interatividade e animações
+- **i18n.js** — Tradução PT/EN

@@ -8,13 +8,12 @@ Abra o arquivo `index.html` no navegador (duplo clique ou arrastar para o Chrome
 
 ## Publicar como site (GitHub Pages)
 
-1. **Crie um repositório** no GitHub (ex: `wellington-limeira.github.io` ou `portfolio-wellington`).
-2. **Faça push** deste projeto para o repositório.
-3. Em **Settings** > **Pages** do repositório:
-   - **Source**: GitHub Actions
-4. O workflow fará o deploy automaticamente. Após 1–2 minutos, o site estará em:
-   - `https://seu-usuario.github.io/nome-do-repo/` (se for repo normal)
-   - `https://wellington-limeira.github.io/` (se o repo for `wellington-limeira.github.io`)
+1. **Faça push** deste projeto para o repositório no GitHub.
+2. Em **Settings** > **Pages** do repositório:
+   - **Source**: Deploy from a branch
+   - **Branch**: main
+   - **Folder**: / (root)
+3. O site estará em `https://seu-usuario.github.io/nome-do-repo/`
 
 ## Estrutura
 

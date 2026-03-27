@@ -1,4 +1,4 @@
-# Portfólio — Wellington Limeira Santos
+# Portfólio — Wellington Limeira
 
 Portfólio profissional — Analista de Conteúdo e Operações | Gestão de Comunidades | Experiência na ByteDance (CapCut).
 

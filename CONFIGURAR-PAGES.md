@@ -2,7 +2,7 @@
 
 ## 1. Abra o repositório
 
-Acesse: https://github.com/Vincs02/wellington-limeira.github.io
+Acesse: https://github.com/Vincs02/vinicius-ribeiro.github.io
 
 ## 2. Vá em Settings
 
@@ -23,4 +23,4 @@ Em **Build and deployment**:
 
 ## 5. Aguarde 1–2 minutos
 
-O site ficará disponível em: **https://vincs02.github.io/wellington-limeira.github.io/**
+O site ficará disponível em: **https://vincs02.github.io/vinicius-ribeiro.github.io/**

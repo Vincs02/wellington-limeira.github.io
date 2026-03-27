@@ -3,7 +3,7 @@
 ## Opção 1: Repositório novo para Wellington (recomendado)
 
 1. Crie um novo repositório no GitHub em [github.com/new](https://github.com/new):
-   - Nome: `wellington-limeira.github.io` (para site em `https://wellington-limeira.github.io`)
+   - Nome: `vinicius-ribeiro.github.io` (para site em `https://vinicius-ribeiro.github.io`)
    - OU qualquer nome: `portfolio-wellington` (site em `https://seu-usuario.github.io/portfolio-wellington`)
 
 2. Abra o terminal nesta pasta e execute:
@@ -11,7 +11,7 @@
    ```bash
    git remote set-url origin https://github.com/USUARIO/NOME-DO-REPO.git
    git add .
-   git commit -m "Portfólio Wellington Limeira"
+   git commit -m "Portfólio Vinicius Ribeiro"
    git push -u origin main
    ```
 
@@ -21,7 +21,7 @@
    - Em **Build and deployment** > **Source**, selecione **GitHub Actions**
 
 4. O site será publicado automaticamente. Aguarde 1–2 minutos e acesse:
-   - `https://wellington-limeira.github.io` (se usou esse nome)
+   - `https://vinicius-ribeiro.github.io` (se usou esse nome)
    - ou `https://seu-usuario.github.io/portfolio-wellington` (exemplo)
 
 ## Opção 2: Repositório já existente
@@ -30,7 +30,7 @@ Se o repositório já existe e está conectado:
 
 ```bash
 git add .
-git commit -m "Portfólio Wellington Limeira"
+git commit -m "Portfólio Vinicius Ribeiro"
 git push origin main
 ```
 
@@ -38,4 +38,4 @@ Depois, em **Settings** > **Pages**, escolha **Source: GitHub Actions**.
 
 ---
 
-**Dica:** Se o Wellington tiver conta no GitHub, crie o repo na conta dele e o site ficará em `https://wellington-limeira.github.io`.
+**Dica:** Se o Wellington tiver conta no GitHub, crie o repo na conta dele e o site ficará em `https://vinicius-ribeiro.github.io`.

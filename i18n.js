@@ -168,7 +168,7 @@
       btn.setAttribute('aria-pressed', btn.getAttribute('data-lang') === l ? 'true' : 'false');
     });
 
-    try { localStorage.setItem('portfolio-lang', l); } catch (e) {}
+    try { localStorage.setItem('portfolio-lang', l); } catch (e) { }
   }
 
   document.querySelectorAll('.lang-btn').forEach(function (btn) {
@@ -180,5 +180,5 @@
   try {
     var saved = localStorage.getItem('portfolio-lang');
     if (saved === 'en' || saved === 'pt') setLang(saved);
-  } catch (e) {}
+  } catch (e) { }
 })();

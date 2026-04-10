@@ -1,4 +1,4 @@
-# Portfólio — Vinicius Ribeiro
+# Portfólio — Wellington Limeira
 
 Portfólio profissional — Analista de Conteúdo e Operações | Gestão de Comunidades | Experiência na ByteDance (CapCut).
 

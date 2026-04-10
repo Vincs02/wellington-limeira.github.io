@@ -11,7 +11,7 @@
    ```bash
    git remote set-url origin https://github.com/USUARIO/NOME-DO-REPO.git
    git add .
-   git commit -m "Portfólio Vinicius Ribeiro"
+   git commit -m "Portfólio Wellington Limeira"
    git push -u origin main
    ```
 
@@ -30,7 +30,7 @@ Se o repositório já existe e está conectado:
 
 ```bash
 git add .
-git commit -m "Portfólio Vinicius Ribeiro"
+git commit -m "Portfólio Wellington Limeira"
 git push origin main
 ```
 

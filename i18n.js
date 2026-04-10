@@ -67,7 +67,7 @@
       'lang.en': 'Inglês — Intermediário',
       'lang.es': 'Espanhol — Básico',
       'section7.title': 'Contato',
-      'footer.text': 'Vinicius Ribeiro — Analista de Conteúdo e Operações',
+      'footer.text': 'Wellington Limeira — Analista de Conteúdo e Operações',
       'footer.sub': 'Experiência na ByteDance (CapCut) · Gestão de Comunidades · Análise de Dados',
       'proj2.context': 'Site de apresentação profissional — experiência em conteúdo, operações e gestão de comunidades na ByteDance/CapCut.',
       'proj2.bullet1': 'Objetivo: Apresentar perfil profissional de forma clara, com foco em análise de conteúdo, gestão de comunidades e suporte operacional.',
@@ -141,7 +141,7 @@
       'lang.en': 'English — Intermediate',
       'lang.es': 'Spanish — Basic',
       'section7.title': 'Contact',
-      'footer.text': 'Vinicius Ribeiro — Content and Operations Analyst',
+      'footer.text': 'Wellington Limeira — Content and Operations Analyst',
       'footer.sub': 'ByteDance (CapCut) Experience · Community Management · Data Analysis',
       'proj2.context': 'Professional presentation site — experience in content, operations, and community management at ByteDance/CapCut.',
       'proj2.bullet1': 'Objective: Present professional profile clearly, focused on content analysis, community management, and operational support.',
@@ -155,7 +155,7 @@
   function setLang(lang) {
     var l = lang === 'en' ? 'en' : 'pt';
     document.documentElement.lang = l === 'en' ? 'en' : 'pt-BR';
-    document.title = l === 'en' ? 'Vinicius Ribeiro | Content and Operations Analyst' : 'Vinicius Ribeiro | Analista de Conteúdo e Operações';
+    document.title = l === 'en' ? 'Wellington Limeira | Content and Operations Analyst' : 'Wellington Limeira | Analista de Conteúdo e Operações';
 
     var t = translations[l];
     document.querySelectorAll('[data-i18n]').forEach(function (el) {
